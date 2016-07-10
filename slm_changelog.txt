@@ -1,0 +1,9 @@
+2016-7-12 v1.0.0 "Agatho"
+-------------------------
+Initial Release
+
+# Decisions
+- Conscript Merchant Ships is now available to any ruler who has a coastal province in the realm, not just those with overseas provinces.
+
+# Casus Belli
+- Pagan County Conquest can be used up to 1 sea zone away.
